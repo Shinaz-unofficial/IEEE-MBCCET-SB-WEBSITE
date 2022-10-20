@@ -1,0 +1,9 @@
+.navlink:hover{
+background-color: aliceblue;
+color:black;
+font-weight: 900;
+border-radius: 5px;
+}
+.navlogo:hover{
+font-weight: 900;
+}
